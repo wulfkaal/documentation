@@ -24,6 +24,7 @@
 * [Core Semada DAOs](core-semada-daos/README.md)
   * [Anchor DAO](core-semada-daos/anchor-dao.md)
   * [Network Innovation DAO](core-semada-daos/network-innovation-dao.md)
+  * [Stability DAO](core-semada-daos/stability-dao.md)
 * [Network Infrastructure for Decentralized Economies](network-infrastructure-for-decentralized-economies/README.md)
   * [DAO Infrastructure](network-infrastructure-for-decentralized-economies/dao-infrastructure.md)
   * [Verification Platform](network-infrastructure-for-decentralized-economies/verification-platform.md)
