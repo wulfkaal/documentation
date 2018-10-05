@@ -7,7 +7,7 @@ A graph is a collection of points, called vertices, with optional connections be
 
 DAO Governance Via Weighted Directed Acyclical Graphs
 
-### ![](https://lh5.googleusercontent.com/FnxCQh4G0ivutnfG-iCRdO_V80NdF_Yjg6DwHIdVThUaC3HrzF-jdFT58oW_DFLCMsegZQuaAuy-hYiG9aTBgqvn61BsSbgHDS9hZV--87Dv3PIfS34HnwVJTv4RzqgtCzK8T4cy)
+![](https://lh5.googleusercontent.com/FnxCQh4G0ivutnfG-iCRdO_V80NdF_Yjg6DwHIdVThUaC3HrzF-jdFT58oW_DFLCMsegZQuaAuy-hYiG9aTBgqvn61BsSbgHDS9hZV--87Dv3PIfS34HnwVJTv4RzqgtCzK8T4cy)
 
 Figure 9: Weighted Directed Acyclical Graphs.
 
