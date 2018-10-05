@@ -1,0 +1,2 @@
+# Sockpuppet Protocol
+

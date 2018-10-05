@@ -1,9 +1,32 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Untitled](untitled.md)
-
-## DAO's
-
-* [Untitled](daos/untitled.md)
+* [Introduction](README.md)
+* [Core Values](untitled.md)
+* [Problem](problem/README.md)
+  * [Internet-Based Platforms Proliferate](problem/internet-based-platforms-proliferate.md)
+  * [Trust Crises on the Internet](problem/trust-crises-on-the-internet.md)
+  * [Internet-Based Platforms Use of Reputation Metrics](problem/internet-based-platforms-use-of-reputation-metrics.md)
+* [Internet of Trust](internet-of-trust.md)
+* [Semada Research Institute](semada-research-institute/README.md)
+  * [Founding Principle](semada-research-institute/founding-principle.md)
+  * [Reputation as True Decentralization](semada-research-institute/reputation-as-true-decentralization.md)
+  * [Motivation](semada-research-institute/motivation.md)
+  * [Semada Research Network](semada-research-institute/semada-research-network.md)
+* [Semada Platform](semada-platform.md)
+* [Protocols](protocols/README.md)
+  * [Anchor Protocol](protocols/anchor-protocol/README.md)
+    * [Selection Procedure for Block Producer in Semada Proof of Reputation](protocols/anchor-protocol/selection-procedure-for-block-producer-in-semada-proof-of-reputation.md)
+    * [Validation Pool Block Verification](protocols/anchor-protocol/validation-pool-block-verification.md)
+    * [Block Production Salaries](protocols/anchor-protocol/block-production-salaries.md)
+  * [Sockpuppet Protocol](protocols/sockpuppet-protocol.md)
+  * [Persona Protocol](protocols/persona-protocol.md)
+  * [Evolutionary Blockchain Governance Protocol](protocols/evolutionary-blockchain-governance-protocol.md)
+* [Core Semada DAOs](core-semada-daos/README.md)
+  * [Anchor DAO](core-semada-daos/anchor-dao.md)
+  * [Network Innovation DAO](core-semada-daos/network-innovation-dao.md)
+* [Network Infrastructure for Decentralized Economies](network-infrastructure-for-decentralized-economies/README.md)
+  * [DAO Infrastructure](network-infrastructure-for-decentralized-economies/dao-infrastructure.md)
+  * [Verification Platform](network-infrastructure-for-decentralized-economies/verification-platform.md)
+  * [Reputation Economy](network-infrastructure-for-decentralized-economies/reputation-economy.md)
+* [Decentralized Markets](decentralized-markets.md)
 
