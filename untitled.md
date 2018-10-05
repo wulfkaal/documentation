@@ -13,5 +13,9 @@ Creating and maintaining secure and meaningful reputation motivates productive c
 The purpose of encryption technology on the blockchain is to safeguard individuals’ digital sovereignty and power over their personal privacy. Superficial identifiers such as physicality, sex, gender, race, culture, language, location, or group identification, which have traditionally disenfranchised minorities, are less relevant in DAOs with pseudonymous geographically distributed members. This encourages more opportunities in business and serves the goal of just distribution of power, creating an efficient and responsive meritocracy.  
 
 
+1. Niklas Luhmann, Trust and Power, Chichester, John Wiley & Sons, 1979.
+
+\*\*\*\*
+
 
 
