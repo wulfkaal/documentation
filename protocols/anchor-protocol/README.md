@@ -13,8 +13,6 @@ Core comparison:
 
 Consider a variation::
 
-![](https://lh5.googleusercontent.com/B3eavU3bYhgnCG-93eNvEy_LZhs2zXr8HdDD_UnBHthDBCwyjqKFceGSVp8IhvmjtKJJ6dEsLoeB9qR6lLW5qwjPMnIkbku87dMFHCWjDx56imV61hLECsNkyZ9EQ6GnJ1Q8llGc)
-
 
 
 ![](https://lh5.googleusercontent.com/WhRPJ771W4vxBfFY0G2jQiXBq0aRXHK64AZiWCSoyLKFIVAEQKaJ_3cRsZnL_hPZBBmeiF4Bi4VMPQ9IaPcLXlZ5baLk6y4Gm5yBUPfBSzgQ2SjVzoJWlpGni9hyTMo1e5SahH2R)
