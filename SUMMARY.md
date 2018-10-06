@@ -40,11 +40,3 @@
 * [Case Studies](case-studies.md)
 * [Developers](https://semada.gitbook.io/developers)
 
-## Developers
-
-* [Semada Core](developers/semada-core/README.md)
-  * [joinDao](developers/semada-core/untitled.md)
-  * [vote](developers/semada-core/vote.md)
-  * [newProposal](developers/semada-core/newproposal.md)
-  * [checkVote](developers/semada-core/checkvote.md)
-
