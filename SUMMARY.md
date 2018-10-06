@@ -38,6 +38,7 @@
   * [Low Volatility Currency Framework](network-infrastructure-for-decentralized-economies/low-volatility-currency-framework.md)
   * [Asset Tokenization Framework](network-infrastructure-for-decentralized-economies/asset-tokenization-framework.md)
 * [Case Studies](case-studies.md)
+* [Developers](https://semada.gitbook.io/developers)
 
 ## Developers
 
