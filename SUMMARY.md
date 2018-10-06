@@ -31,3 +31,11 @@
   * [Reputation Economy](network-infrastructure-for-decentralized-economies/reputation-economy.md)
 * [Decentralized Markets](decentralized-markets.md)
 
+## Developers
+
+* [Semada Core](developers/semada-core/README.md)
+  * [joinDao](developers/semada-core/untitled.md)
+  * [vote](developers/semada-core/vote.md)
+  * [newProposal](developers/semada-core/newproposal.md)
+  * [checkVote](developers/semada-core/checkvote.md)
+
