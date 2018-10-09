@@ -19,10 +19,14 @@ The NIDAO is tasked with network innovation for SRI .Membership of the SRN DAO i
 
 ## Stability DAO \(SDAO\)
 
-External datapoint on stability success of  SEM
+The SDAO is the central policy making DAO for the Semada Stability Mechanism.  It creates a core improvement over existing stability mechanism for cryptocurrencies. SDAOs is needed for multiple oracle functions in the stability mechanism and enables an unprecedented fully decentralized stability model. External datapoint on stability success of  SEM
 
 External datapoint that SDAO members cannot influence
 
 Payment Source: Anchor fee payment participation  
  
+
+## Semada Stability Mechanism \(SSM\)
+
+
 
