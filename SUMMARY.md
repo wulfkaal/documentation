@@ -1,8 +1,8 @@
 # Table of contents
 
 * [How To Read This Documentation](README.md)
-* [Definitions](definitions.md)
 * [About Semada Research Institute](about-semada-research-institute.md)
+* [Definitions](definitions.md)
 * [Introduction](introduction/README.md)
   * [Core Values](introduction/untitled.md)
   * [Problem](introduction/problem/README.md)
