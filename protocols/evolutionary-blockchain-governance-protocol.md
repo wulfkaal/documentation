@@ -32,7 +32,7 @@ To specify this weighting structure a bit more rigorously, we introduce some tec
 
 A **graph** is a collection of points, called **vertices**, with optional connections between vertices, called **edges**. The vertices of our graph are the posts to the forum. The edges are citations directed from one post \(the **referrer**\) to another \(the **reference**\). The edges give the graph direction, since references always point backward in time. Since there can be no time loops of references, the graph has no cycles, so it is **acyclic**. All in all, the forum is a directed acyclic graph \(DAG\).
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 Figure 1: Graph definitions
 
@@ -46,7 +46,7 @@ Each post ![](file:////Users/wulfkaal/Library/Group%20Containers/UBF8T346G9.Offi
 
 In this example, posters may reward or punish more than one previous post with a reference and a weight number ![](file:////Users/wulfkaal/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image010.jpg) chosen between ![](file:////Users/wulfkaal/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.jpg) and ![](file:////Users/wulfkaal/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image014.jpg), where ![](file:////Users/wulfkaal/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image016.jpg) means their post is in agreement with the reference and ![](file:////Users/wulfkaal/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image018.jpg) means their post is opposed. Thus references become the weighted edges of the forum graph. Then to update the value of an older post, we simply sum up all of its referrers’ values multiplied by the weights.
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 Figure 2:WDAG and network value flow
 

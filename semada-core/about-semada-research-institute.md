@@ -6,7 +6,7 @@ All money out of the system is paid as salaries to experts according to reputati
 
 Specifically, supposing expert Ei has reputation in only one expertise tag, then their salary S\(Ei\) is given by the formula:
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 Experts with sem tokens in several expertise tags are paid as specified above for each tag.
 

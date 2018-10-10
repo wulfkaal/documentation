@@ -14,9 +14,9 @@ Under this scenario, the best strategy for the malicious group to gain reputatio
 
 Thus we assume the malicious group m will add a variable number n of fixed fees of size ∆x≪1 . Then the good faith experts will have: 
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 Consequently the malicious group would need to invest an absolute minimum of 2 g0 , that is, double the total reputation of the system to gain 50% power in the system in order to outvote the rest of the good-faith experts in the validation pool.
 
@@ -36,17 +36,17 @@ A malicious group is therefore limited to attempting to destroy the platform, by
 
 Specifically, assume the good-faith experts invest some constant fraction c of the malicious groups’ investment ∆x at each time. If c ≥ 1 then the malicious group will never gain more than 50% power. So assume 0 &lt; c &lt; 1. Then the equations become: 
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 One sem token loses value if fees are constantly added in time.
 
 If fees are constantly being paid into an expertise tag at a rate of F \(t\) = r units per time, then the salary paid for one coin decreases in time. To see this, denote the total number of sem tokens in the tag at time t by T\(t\). The salary per token per unit time is S = F/T . However, since each fee token creates a new sem token, we have: 
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 All sem tokens in a single expertise tag are equal at any given moment7. However, assuming a steady state rate of fees, the payout for 1 year from inception is greater for tokens minted earlier, because later tokens are a smaller percentage of the total. Remember, new tokens are created with every fee paid into the platform, but never destroyed.
 
