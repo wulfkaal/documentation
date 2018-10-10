@@ -42,11 +42,21 @@ Secondly, DoS attacks can be performed on stable block producers \(especially de
 
 **5\)  “Spirit of the law” soft protocol violations**. Any protocol can be gamed to benefit a minority group at the expense of the whole \(cf. Arrow’s Impossibility Theorem\).
 
-6\)  Liveness faults14. When some users don’t participate in block creation or validation, then security is weakened and decentralization is threatened.
+**6\)  Liveness faults.** When some users don’t participate in block creation or validation, then security is weakened and decentralization is threatened.
 
-7\)  51% attacks. In the various 51% attacks, a group that owns a significant percentage of the governing tokens can profit at the expense of the platform and the other users by exerting their power. The 51% attack is particularly dangerous in decentralized systems with potentially anonymous users and automated protocols because there is usually no recourse to petition a centralized authority with the power to effectuate dispute resolution. Therefore if there is an arbitrage opportunity due to any weakness in the system, someone in the world will certainly exploit it eventually.
+**7\)  51% attacks.** In the various 51% attacks, a group that owns a significant percentage of the governing tokens can profit at the expense of the platform and the other users by exerting their power. The 51% attack is particularly dangerous in decentralized systems with potentially anonymous users and automated protocols because there is usually no recourse to petition a centralized authority with the power to effectuate dispute resolution. Therefore if there is an arbitrage opportunity due to any weakness in the system, someone in the world will certainly exploit it eventually.
 
 One type of 51% attack is the arbitrage scenario where a group will buy 51% of the tokens, make a short term profit at the expense of other users \(double spending, editing, or censoring, e.g.\) then quickly sell off the tokens before the platform’s value declines from the damage done.
 
-Almost all other blockchains sell off a significant number of their tokens in an initial token sale, or mine them, or a combination of both. Either way, these tokens are almost always perfectly fungible currencies, so there is a clear answer to how much it would cost
+Almost all other blockchains sell off a significant number of their tokens in an initial token sale, or mine them, or a combination of both. Either way, these tokens are almost always perfectly fungible currencies, so there is a clear answer to how much it would costto corrupt or destroy blockchain running a PoS protocol based on cryptocurrency stakes.
+
+**8\) The long-range attack** ​is a fundamental problem PoS protocols must address, where a malicious producer may create a long list of blocks forked from an earlier valid block, because there is no PoW energetic outlay required to prevent this. Essentially, a new node can join the network and see the genuine chain and a fabricated chain that is longer; then the new node, lacking the proof of work hashes, could not objectively distinguish which is correct. Casper and Tendermint solve this problem with a system of token locking.
+
+**9\) Perverse delegates.** In any PoS, especially DPoS, the motives of the producers are more likely to be avaricious than average, because those with perverse motives are more likely to make the effort to produce blocks and risk slashing. The ability to achieve clear consensus on validation protocols in the forum makes it easy to police adverse actions without the need for any extra incentive besides preserving the value of your sem token holdings.
+
+**10\) Sybil attacks** are prevented with weighted voting, because all actions on the platform are fairly evaluated as determined by holdings of openly verified reputation; thus power is not increased by distributing it amongst cloned accounts.
+
+**11\) Tyranny of the majority** is inhibited since all actions are reviewed by users weighted by sem tokens, so direct democracy does not dilute expertise.
+
+**12\) Stake grinding.** In any decentralized PoS protocol there needs to be an automated mechanism for determining when and who produces a block. Generally it is a given that in a decentralized system, the selection should be random, weighted according to the producers’ stakeholdings. The randomness must be achieved with a pseudo-random number generator whose algorithm and seed must be available for verification by all nodes. If the protocol is not carefully chosen, this introduces an attack vector, called stake grinding, in which malicious producers might manipulate the seed in order to influence the selection in their favor.
 
