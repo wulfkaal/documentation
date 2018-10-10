@@ -6,7 +6,7 @@ To repeat, the goal is to make it easy to participate for the maximal number and
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 q3 limit to the length of reference chain effect  
  For stability and calculation efficiency, we expect most DAOs will choose to limit the effect of a
@@ -14,7 +14,7 @@ q3 limit to the length of reference chain effect
 chain of references to a certain finite depth. Changing the valuation tn using the function  
 
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 

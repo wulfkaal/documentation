@@ -8,9 +8,9 @@ so c1 = 1 . Secondly, a post is weighted by the amount of approval it initially 
 
 In this example, posters may reward or punish more than one previous post with a reference and a weight number w chosen between − 1 and 1 , where w = 1 means their post is in agreement with the reference and w =− 1 means their post is opposed. Thus references become the weighted edges of the forum graph. Then to update the value of an older post, we simply sum up all of its referrers’ values multiplied by the weights.
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 With this choice of valuating pn according to the recursive formula given for tn in 2\) above, we are specifying that
 

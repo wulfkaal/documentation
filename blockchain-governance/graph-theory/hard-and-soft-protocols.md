@@ -24,7 +24,7 @@ Under ​loosely-coupled voting the experts do not risk their tokens in case the
 
 In order to enforce a limit on the time of a debate, the DAO may choose to include a mechanism where validation pools transition gradually from loosely-coupled voting to tightly-coupled voting.  This transition allows authentic deliberation to take place during the loosely-coupled voting phase, since divergent views are not punished. When the debate transitions to the tightly-coupled voting phase, the tragedy of the commons problems of meaningless votes \(the “nothing-at-stake problem”\) and non-participation \(i.e., free-riding\) are avoided, fairly and stably, because members who do not participate effectively will lose reputation or at least lose opportunities to gain reputation tokens, whose future value will greatly increase if the protocol improvement successfully attracts fees to the platform.
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 The above table categorizes the difference between contentious and non-contentious posts. Non-contentious posts, such as work-evidence posts, will be rigidly policed and binding in the allocation of tokens. Protocols will start as flexible and nonbinding when they are validated as contentious posts. “Flexible” means members will not be required to follow initial contentious post protocols subjected to loosely-coupled votes. “Non-binding” means no sem tokens are sacrificed for violating the content of such posts. As consensus is gradually achieved and protocol suggestions become validated in tightly coupled validation pools, the protocols become rigid and binding, so that violating them results in loss of sem tokens.
 
