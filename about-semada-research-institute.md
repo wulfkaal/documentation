@@ -1,2 +1,0 @@
-# About Semada Research Institute
-

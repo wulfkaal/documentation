@@ -1,49 +1,11 @@
-# Low Volatility Currency / Stable Coin
+# Semada Low Volatility Coin
 
 The evolving decentralized commerce necessitates stable cryptocurrencies. Yet, the emerging cryptocurrency market is afflicted with significant volatility. Unlike its centralized counterparts, the cryptocurrency market is not subject to centralized policy making via fiscal and monetary policy tools that ensure the management and stability of purchasing power of cryptocurrencies. Decentralized commerce, in turn, is less likely to evolve if the average consumer cannot rely on the enduring purchasing power and stability of cryptocurrencies over time.  
 
 The Semada native cryptocurrency \(SEM\) is pegged to the US Dollar.  To ensure that the SEM/US Dollar exchange rate is stable at around one US Dollar, the Semada Stability Mechanism \(SSM\) provides core policy tools that help adjusts the supply of SEM in response to  SEM price movements. Similar to earlier attempts in the Basis model, the mechanism enabling price and purchase power stability in SSM involves 3 tokens: 1. SEM, 2. BONDS, and 3. SHARES. SSM uses the Semada core voting algorithm for decentralized autonomous organizations \(Stability DAO or SDAO\) to improve the Basis model in several core policy functions in a fully decentralized and autonomous way. We illustrate the mathematical limits of crash and burn scenarios of earlier attempts and contrast them with our own stability mechanism and its theoretical limits.    
 
 
-**Table of Contents**  
-
-
-[**1  Introduction 3**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.qzz3x6di7gl1)
-
-[**2  Related Research 3**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.pm4d23d3htw0)
-
-[**2.1 Critique of Robert Sams 3**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.2zu03v1tdg37)
-
-[**2.2 Critique of Basis 4**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.i7u7w7afx77)
-
-[**3 Semada Stability Mechanism 4**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.798onxqnlb0)
-
-[**3.1 Stability DAO 4**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.yk01fvy6ajc6)
-
-[**3.2 Exchange Rate Calibration 5**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.qm8yiwb87b8o)
-
-[**3.3 Token Mechanics 5**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.6q14q08rbmpa)
-
-[**3.3.1 SEM 5**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.ph8h9wyfqhzu)
-
-[**3.3.2 BONDS 6**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.d6v6xabqi80q)
-
-[**3.3.3 SHARES 6**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.950j73s2915s)
-
-[**3.4 SEM Price Stability 6**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.mmuufmb7bclf)
-
-[**3.4.1 Overvaluation 6**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.ybn4ue32up38)
-
-[**3.4.2 Undervaluation 7**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.1yddhkot1u8t)
-
-[**4 Crash-and-Burn Cycle Analysis / Model 7**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.ifghp2shrnb0)
-
-[**5 Use Cases of a Stable Currency 8**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.9o55py1177ph)
-
-[**6 Simulation Analyses 8**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.yajxu2bz4w3w)
-
-[**7 Summary and Conclusion 8**](https://docs.google.com/document/d/1OlSX__to7j-EkSbwclts0pRbmJ5v60ggRyh3QowHUMI/edit#heading=h.93cwizyo70m1)****  
-
+\*\*\*\*
 
   
 **1 Introduction**
