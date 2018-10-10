@@ -56,6 +56,7 @@
   * [Anchor DAO](dao-micronetworks/anchor-dao.md)
   * [Network Innovation DAO](dao-micronetworks/network-innovation-dao.md)
   * [Stability DAO](dao-micronetworks/stability-dao.md)
+  * [Underwriting DAO](dao-micronetworks/underwriting-dao.md)
 * [Use Cases](network-infrastructure-for-decentralized-economies/README.md)
   * [DAO Infrastructure](network-infrastructure-for-decentralized-economies/dao-infrastructure.md)
   * [Verification Platform](network-infrastructure-for-decentralized-economies/verification-platform.md)
