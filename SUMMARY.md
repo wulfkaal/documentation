@@ -23,6 +23,7 @@
   * [System Autonomy](semada-core/system-autonomy.md)
   * [Summary](semada-core/summary.md)
 * [Chain](proof-of-reputation-consensus/README.md)
+  * [Motivation](proof-of-reputation-consensus/motivation.md)
   * [Proof of Reputation](proof-of-reputation-consensus/proof-of-reputation.md)
 * [Low Volatility Coin](low-volatility-currency-stable-coin.md)
 * [Governance](blockchain-governance/README.md)
