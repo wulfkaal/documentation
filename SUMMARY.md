@@ -54,7 +54,7 @@
   * [Evolutionary Blockchain Governance Protocol](protocols/evolutionary-blockchain-governance-protocol.md)
 * [Core DAOs](dao-micronetworks/README.md)
   * [Anchor DAO](dao-micronetworks/anchor-dao.md)
-  * [Network Innovation DAO](dao-micronetworks/network-innovation-dao.md)
+  * [Network Improvement DAO](dao-micronetworks/network-innovation-dao.md)
   * [Stability DAO](dao-micronetworks/stability-dao.md)
   * [Underwriting DAO](dao-micronetworks/underwriting-dao.md)
 * [Use Cases](network-infrastructure-for-decentralized-economies/README.md)
