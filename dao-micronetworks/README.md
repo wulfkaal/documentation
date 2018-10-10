@@ -1,2 +1,2 @@
-# Core DAO's
+# Core DAOs
 
