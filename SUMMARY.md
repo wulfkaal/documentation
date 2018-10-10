@@ -29,6 +29,7 @@
   * [DAO Governance](blockchain-governance/dao-governance.md)
   * [Overcoming Corruption](blockchain-governance/overcoming-corruption.md)
   * [Dynamic Governance](blockchain-governance/dynamic-governance.md)
+  * [Deliberative Democracy](blockchain-governance/deliberative-democracy.md)
 * [Protocols](protocols/README.md)
   * [Block Production / Fungible Salaries](protocols/block-production-fungible-salaries.md)
   * [Anchor Protocol](protocols/anchor-protocol/README.md)
