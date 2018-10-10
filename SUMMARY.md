@@ -22,7 +22,7 @@
   * [Countering Corruption](semada-core/countering-corruption.md)
   * [System Autonomy](semada-core/system-autonomy.md)
   * [Summary](semada-core/summary.md)
-* [Chain](proof-of-reputation-consensus/README.md)
+* [Consensus](proof-of-reputation-consensus/README.md)
   * [Motivation](proof-of-reputation-consensus/motivation.md)
   * [Proof of Stake Challenges](proof-of-reputation-consensus/proof-of-stake-challenges.md)
   * [Proof of Reputation](proof-of-reputation-consensus/proof-of-reputation/README.md)
