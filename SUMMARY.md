@@ -52,7 +52,7 @@
   * [Sockpuppet Protocol](protocols/sockpuppet-protocol.md)
   * [Persona Protocol](protocols/persona-protocol.md)
   * [Evolutionary Blockchain Governance Protocol](protocols/evolutionary-blockchain-governance-protocol.md)
-* [Core DAOs](dao-micronetworks/README.md)
+* [DAOs](dao-micronetworks/README.md)
   * [Anchor DAO](dao-micronetworks/anchor-dao.md)
   * [Network Improvement DAO](dao-micronetworks/network-innovation-dao.md)
   * [Stability DAO](dao-micronetworks/stability-dao.md)
