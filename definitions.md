@@ -19,14 +19,10 @@ The NIDAO is tasked with network innovation for SRI. Membership of the SRN DAO i
 
 ## Stability DAO \(SDAO\)
 
-The SDAO is the central policy making DAO for the Semada Stability Mechanism.  It creates a core improvement over existing stability mechanism for cryptocurrencies. SDAOs is needed for multiple oracle functions in the stability mechanism and enables an unprecedented fully decentralized stability model. External datapoint on stability success of  SEM
-
-External datapoint that SDAO members cannot influence
-
-Payment Source: Anchor fee payment participation  
+The SDAO is the central policy making DAO for the Semada Stability Mechanism.  It creates a core improvement over existing stability mechanism for cryptocurrencies. SDAOs is needed for multiple oracle functions in the stability mechanism and enables an unprecedented fully decentralized stability model. Payment Source: Anchor fee payment participation.  
  
 
 ## Semada Stability Mechanism \(SSM\)
 
-
+The Semada Stability Mechanism \(SSM\) provides core policy tools that help adjusts the supply of SEM in response to  SEM price movements. Similar to earlier attempts in the Basis model, the mechanism enabling price and purchase power stability in SSM involves 3 tokens: 1. SEM, 2. BONDS, and 3. SHARES. SSM uses the Semada core voting algorithm for decentralized autonomous organizations \(Stability DAO or SDAO\) to improve the Basis model in several core policy functions in a fully decentralized and autonomous way. We illustrate the mathematical limits of crash and burn scenarios of earlier attempts and contrast them with our own stability mechanism and its theoretical limits.
 
