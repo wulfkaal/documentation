@@ -1,8 +1,6 @@
 # Salaries
 
-e Semada platform is decentralized and autonomous. There is no centralized foundation which owns any part of the platform. So the economics is very simple.
-
-All money into the system comes from fees paid by business access, and fees from commenters who post to become new experts. New commenter fees are expected to be smaller than outside business fees in the long term for healthy expertise tags; otherwise the expertise tag is simply a pyramid scheme.
+The Semada platform is set up to facilitate that all money into the system comes from fees paid by business access, and fees from commenters who post to become new experts. New commenter fees are expected to be smaller than outside business fees in the long term for healthy expertise tags; otherwise the expertise tag is simply a pyramid scheme.
 
 All money out of the system is paid as salaries to experts according to reputation. All fees paid to an expertise tag are split between the experts weighted according to their relative holding of sem tokens in that expertise tag.
 

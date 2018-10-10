@@ -18,6 +18,7 @@
   * [Attack Resistance](semada-core/attack-resistance.md)
   * [Reputation Calculation](semada-core/reputation-calculation.md)
   * [Salaries](semada-core/about-semada-research-institute.md)
+  * [Power Distribution](semada-core/power-distribution.md)
   * [Countering Corruption](semada-core/countering-corruption.md)
   * [System Autonomy](semada-core/system-autonomy.md)
   * [Summary](semada-core/summary.md)
