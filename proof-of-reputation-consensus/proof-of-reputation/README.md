@@ -2,7 +2,7 @@
 
 We herein explain the PoS blockchain consensus protocol which uses the Semada reputation verification platform to ensure block production is honest, economically viable, scalable, and secure. We call this protocol Semada’s Proof of Reputation \(PoR\) to distinguish it from the several previous PoS protocols.
 
-Since PoR relies on the user reputation created by the Semada platform, before readers can understand and trust the PoRprotocol, readers must understand and trust that the Semada platform is secure against the host of problems that have plagued all previous attempts to create meaningful reputation for potentially pseudonymous users, including powerful centralized commercial platforms such as Ebay and Amazon which rely on buyer and seller reputation. Though we review the generalities here, a prerequisite to understanding SPoS is to read and understand the Semada technical white paper explaining its architecture.
+Since PoR relies on the user reputation created by the Semada platform, before readers can understand and trust the PoR protocol, readers must understand and trust that the Semada platform is secure against the host of problems that have plagued all previous attempts to create meaningful reputation for potentially pseudonymous users, including powerful centralized commercial platforms such as Ebay and Amazon which rely on buyer and seller reputation. Though we review the generalities here, a prerequisite to understanding PoR is to read and understand the Semada technical white paper explaining its architecture.
 
 Given a secure reputational system, the stakes in PoR are given by the reputation tokens \(called sem tokens​\), then the protocols follow naturally. Other PoS protocols regularly use ad hoc solutions to solve problems as they are identified, such as the long range attack, cartel formation, and censorship resistance. These problems are automatically handled in a self-policing reputational system.
 
@@ -14,7 +14,27 @@ Therefore the PoR architecture has several advantageous features over the other 
 4. Users who produce valid blocks and who are knowledgeable enough to decide on protocol improvements will enjoy substantially greater rewards. Users who don’t will be punished with loss of sem tokens. Inactive users \(liveness faults\) are indirectly punished with the natural inflation of the token, which happens because new tokens are minted whenever the platform attracts a fee. Therefore, the system will naturally and stably tend toward probity.
 5. The Semada forum holds evidence of positive contributions to the blockchain, including evidence of proper block production, policing block production, protocol suggestions, and discussion. Every post is subjected to a validation pool where all sem token holders have the opportunity to stake their tokens to decide the value of a contribution. The staking of tokens, with its potential for slashing, is necessary to avoid the tragedy of the commons. A reference system allows new validated posts to alter the value of sem tokens minted from older posts. This opportunity for review adds stability against slashing, giving users the ability to police long-term systemic attacks, the ability to reverse previous decisions, and the ability to reward long-term improvements such as protocol upgrades.
 
-Secondly, SPoS is evolutionary in nature. It’s architecture naturally incorporates a mechanism for 1\) proposing, deciding, and rewarding authors of protocol improvements, and 2\) policing any gaming during block production. The forum holds a history of all protocol improvement suggestions, the validation pool specifies the consensus of the community on each issue, and the reference system allows retroactive rewarding of proposers and testers who contributed to the security and success of the blockchain.
+Secondly, PoR is evolutionary in nature. It’s architecture naturally incorporates a mechanism for 1\) proposing, deciding, and rewarding authors of protocol improvements, and 2\) policing any gaming during block production. The forum holds a history of all protocol improvement suggestions, the validation pool specifies the consensus of the community on each issue, and the reference system allows retroactive rewarding of proposers and testers who contributed to the security and success of the blockchain.
 
-In the next section we review the major challenges to creating any PoS protocol. In Section 3, we review the Semada platform which is needed to detail the PoR protocol, presented in Section 4. Finally, we analyze the PoR protocol. The primary concern is achieving consensus on block finality, while maintaining liveness, decentralization, autonomy, anonymity, efficiency, and especially security--which includes Byzantine faults, 51% attacks, stake grinding, the nothing-at-stake problem \(tragedy of the commons\), Sybil attacks, tyranny of the majority, liveness faults, DoS attacks, perverse delegates, censorship, and soft protocol changes.
+The primary concern in PoR is achieving consensus on block finality, while maintaining liveness, decentralization, autonomy, anonymity, efficiency, and especially security--which includes Byzantine faults, 51% attacks, stake grinding, the nothing-at-stake problem \(tragedy of the commons\), Sybil attacks, tyranny of the majority, liveness faults, DoS attacks, perverse delegates, censorship, and soft protocol changes.
+
+## Generalities
+
+PoR uses the Semada platform to vest users who contribute to the success of the blockchain with sem tokens. All sem token holders share all fees the blockchain attracts \(typically transaction fees\). Contributing to the success of the blockchain includes following the protocols developed in the forum for block production and policing, and suggesting protocol improvements. Block production and policing will generally consist of running a full node with the currently approved algorithm from the forum.
+
+This general approach has the following consequences:
+
+1. Protocols for block creation are automated and openly viewable on the blockchain.
+2. Semada allows automated analysis of blocks, with both immediate policing through the validation pool and long-term policing via the referencing system of the WDAG.
+3. The evolutionary environment of continual posts in the forum judged in the validation pool encourages stable consensus on continual protocol improvements, which ensures security.
+4. The WDAG incentivizes protocol improvements since it allows retroactive rewards through references.
+5. Many types of blockchains can be created with this protocol. Depending on the goals for the blockchain \(cryptocurrency blockchains, smart contract blockchains, IoT blockchains, etc.\), different fee structures will be appropriate.
+
+## Evolution Implications 
+
+The PoR protocol will continually evolve in the forum. Therefore anything we claim now is provisional, since the platform is completely autonomous and the authors will have no control over its evolution. We can only specify here how the protocol will begin.
+
+PoR has elements of DPoS and chain-based PoS, as time slots are regular, and block producers are chosen randomly based on stake holdings. PoR also has BFT20-style PoS elements since all blocks are evaluated through Semada’s validation pool.
+
+As we explain the protocol below, keep in mind that all steps are automated and performed by computers, except \(perhaps\) the protocol proposals which are posted in the forum.
 
