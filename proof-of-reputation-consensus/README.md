@@ -1,2 +1,2 @@
-# Semada Chain
+# Chain
 

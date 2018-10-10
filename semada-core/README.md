@@ -2,7 +2,7 @@
 description: This page explains the central elements of the Semada Voting Algorithm
 ---
 
-# Semada Core
+# Core
 
 Semada is an autonomous decentralized platform for validating domain specific reputation. The main design goals of the Semada platform are to:
 

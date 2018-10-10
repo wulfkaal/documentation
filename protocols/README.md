@@ -1,2 +1,2 @@
-# Semada Protocols
+# Protocols
 
