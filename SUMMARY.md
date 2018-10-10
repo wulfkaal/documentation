@@ -17,6 +17,8 @@
     * [Semada Research Network](introduction/semada-research-institute/semada-research-network.md)
 * [Semada Core](semada-core/README.md)
   * [Attack Resistance](semada-core/attack-resistance.md)
+  * [Reputation Calculation](semada-core/reputation-calculation.md)
+  * [Countering Corruption](semada-core/countering-corruption.md)
 * [Proof of Reputation Consensus](proof-of-reputation-consensus.md)
 * [Low Volatility Currency / Stable Coin](low-volatility-currency-stable-coin.md)
 * [Blockchain Governance](blockchain-governance.md)
