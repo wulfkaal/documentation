@@ -15,6 +15,7 @@
     * [Reputation as True Decentralization](introduction/semada-research-institute/reputation-as-true-decentralization.md)
     * [Motivation](introduction/semada-research-institute/motivation.md)
     * [Semada Research Network](introduction/semada-research-institute/semada-research-network.md)
+* [Semada Core](semada-core.md)
 * [Proof of Reputation Consensus](proof-of-reputation-consensus.md)
 * [Low Volatility Currency / Stable Coin](low-volatility-currency-stable-coin.md)
 * [Core Protocols](protocols/README.md)
