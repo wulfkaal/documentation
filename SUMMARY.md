@@ -44,7 +44,6 @@
   * [DAO Life Cycle](blockchain-governance/dao-life-cycle.md)
   * [Summary](blockchain-governance/summary.md)
 * [Protocols](protocols/README.md)
-  * [Block Production / Fungible Salaries](protocols/block-production-fungible-salaries.md)
   * [Anchor Protocol](protocols/anchor-protocol/README.md)
     * [Selection Procedure for Block Producer in Semada Proof of Reputation](protocols/anchor-protocol/selection-procedure-for-block-producer-in-semada-proof-of-reputation.md)
     * [Validation Pool Block Verification](protocols/anchor-protocol/validation-pool-block-verification.md)
