@@ -60,9 +60,7 @@
   * [DAO Infrastructure](network-infrastructure-for-decentralized-economies/dao-infrastructure.md)
   * [Verification Platform](network-infrastructure-for-decentralized-economies/verification-platform.md)
   * [Reputation Economy](network-infrastructure-for-decentralized-economies/reputation-economy.md)
-  * [Decentralized Markets](network-infrastructure-for-decentralized-economies/decentralized-markets.md)
   * [Low Volatility Currency Framework](network-infrastructure-for-decentralized-economies/low-volatility-currency-framework.md)
   * [Asset Tokenization Framework](network-infrastructure-for-decentralized-economies/asset-tokenization-framework.md)
-* [Case Studies](case-studies.md)
 * [Developers](https://semada.gitbook.io/developers)
 
