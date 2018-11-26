@@ -8,11 +8,11 @@ In the following, the Semada Research Institute is naming and defining certain c
 
 ## **Semada Research Institute \(SRI\)** 
 
-The Semada Research Institute \(SRI\) is a non-profit research foundation and laboratory that provides research and development expertise in the following areas: distributed systems, dynamical systems, cryptography, cryptoeconomics, micro/macroeconomics, algorithimic monetary design,  blockchain architecture, blockchain protocol design, token economics design and other areas within the larger decentralized and distributed systems domain.
+The Semada Research Institute \(SRI\) is a non-profit research foundation and laboratory that provides research and development expertise in the following areas: distributed systems, dynamical systems, cryptography, crypto-economics, micro/macroeconomics, algorithmic monetary design,  blockchain architecture, blockchain protocol design, token economics design and other areas within the larger decentralized and distributed systems domain.
 
 ## **Semada Labs \(Labs\)**
 
-Semada Labs \(Labs\) develops the commercial applications of the SRI source code. The cooperative relationship between SRI and Labs is characterized by sharing of research, technology and know-how in an effort to continuously develop and increase the adoption of Semada blockchain and its core network.
+Semada Labs \(Labs\) Semada Labs’s technology and engineering team implement SRI’s economic and mathematical models, protocols, and the SRI research agenda.
 
 ## **Semada Core**
 
