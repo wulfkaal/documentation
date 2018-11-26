@@ -22,7 +22,7 @@ Core function: Block propagation. The Anchor Protocol DAO is the Semada DAO resp
 
 ## Network Improvement DAO \(NIDAO\)
 
-The NIDAO is tasked with network innovation for SRI. Membership of the SRN DAO is contingent on being selected by the existing NIDAO members. Candidates for NIDAO membership only qualify if they posted valuable protocol upgrades and business proposals that were upvoted by the existing members. NIDAO members get paid for their upvoted protocol contributions in both SEM Tokens and NIDAO Tokens. SEM tokens are fungible and traded on cryptocurrency exchanges. NIDAO Tokens are not fungible. NIDAO Tokens are the membership tokens that grant access to the NIDAO. Only the NIDAO Tokens are used for voting on incoming protocol improvement proposals.  
+The NIDAO is tasked with network innovation for SRI. Membership of the NIDAO is contingent on being selected by the existing NIDAO members. Candidates for NIDAO membership only qualify if they posted valuable protocol upgrades and business proposals that were upvoted by the existing members. NIDAO members get paid for their upvoted protocol contributions in both SEM Tokens and NIDAO Tokens. SEM tokens are fungible and traded on cryptocurrency exchanges. NIDAO Tokens are not fungible. NIDAO Tokens are the membership tokens that grant access to the NIDAO. Only the NIDAO Tokens are used for voting on incoming protocol improvement proposals.  
 
 
 ## Stability DAO \(SDAO\)
@@ -36,6 +36,14 @@ The Semada Stability Mechanism \(SSM\) provides core policy tools that help adju
 
 ## **Semada Research Institute \(SRI\)** 
 
-The Semada Research Institute \(SRI\) is a blockchain research laboratory that develops and promotes research built on the core reputation verification algorithm of the Semada Platform. Combining existing Semada protocols, such as Persona and Sockpuppet Protocols, among others, SRI’s initiatives and research agenda is directed by the resolutions passed by the Semada Research Network \(SRN\). Together, SRI and SRN develop a research agenda to implement the Semada core as a truly decentralized reputation-based trust engine for the Internet of Trust in the distributed economy.  
+The Semada Research Institute \(SRI\) is a non-profits research foundation and laboratory that provides research and development expertise in the following areas: distributed systems, dynamical systems, cryptography, cryptoeconomics, micro/macroeconomics, algorithimic monetary design,  blockchain architecture, blockchain protocol design, token economics design and other areas within the larger decentralized and distributed systems domain.
+
+
+
+## **Semada Labs \(Labs\)**
+
+Labs creates technology products and services for commercialization purposes. Labs develops commercial blockchain solutions and related technology products for enterprise customers and consumers. Depending on customer requirements, Labs provides out of the box technology solutions or customized software applications. Labs also provides technology consulting as a service for blockchain and digital currency technologies.
+
+**The cooperative relationship between SRI and Labs** is characterized by sharing of research, technology and know-how in an effort to continuously develop and increase the adoption of Semada blockchain and its core network.  
 
 
