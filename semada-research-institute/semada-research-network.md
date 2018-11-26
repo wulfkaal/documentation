@@ -1,6 +1,6 @@
 # Semada Research Network
 
-The development and evolution of Semada’s Internet of Trust requires a comprehensive research agenda. The Semada Research Institute \(SRI\) is a blockchain research laboratory that develops and promotes research, architecture, and design built on the core reputation verification algorithm of the Semada Platform. Combining existing Semada protocols, such as Persona and Sockpuppet Protocols, among others, SRI’s initiatives and research agendas are directed by the Semada Research Network \(SRN\), a decentralized autonomous organization \(DAO\) on the Semada Platform that originates and implements research proposals for the Semada Platform.
+The Semada Research Network \(SRN\), a decentralized autonomous organization \(DAO\) on the Semada Platform that originates and implements research proposals for the Semada Platform.
 
 SRN is the research engine within the Semada platform. Its purpose is the identification of valuable new research ideas and protocol upgrades. SRN is a DAO on the Semada Platform and an expertise tag within Semada core.
 

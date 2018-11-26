@@ -56,6 +56,7 @@
   * [Network Improvement DAO](dao-micronetworks/network-innovation-dao.md)
   * [Stability DAO](dao-micronetworks/stability-dao.md)
   * [Underwriting DAO](dao-micronetworks/underwriting-dao.md)
+  * [Semada Research Network DAO](dao-micronetworks/semada-research-network-dao.md)
 * [Use Cases](network-infrastructure-for-decentralized-economies/README.md)
   * [DAO Infrastructure](network-infrastructure-for-decentralized-economies/dao-infrastructure.md)
   * [Verification Platform](network-infrastructure-for-decentralized-economies/verification-platform.md)
