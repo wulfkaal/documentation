@@ -30,7 +30,7 @@
     * [Block Propagation](proof-of-reputation-consensus/proof-of-reputation/block-propagation.md)
     * [Benefits](proof-of-reputation-consensus/proof-of-reputation/benefits.md)
     * [Calculations](proof-of-reputation-consensus/proof-of-reputation/calculations.md)
-* [Native Low Volatility Currency](low-volatility-currency-stable-coin.md)
+* [Native Stable Cryptocurrency](low-volatility-currency-stable-coin.md)
 * [Governance](blockchain-governance/README.md)
   * [DAO Governance](blockchain-governance/dao-governance.md)
   * [Overcoming Corruption](blockchain-governance/overcoming-corruption.md)

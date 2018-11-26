@@ -2,7 +2,7 @@
 description: A Stable Cryptocurrency for New Economics Opportunities
 ---
 
-# Native Low Volatility Currency
+# Native Stable Cryptocurrency
 
 The evolving decentralized commerce necessitates stable cryptocurrencies. Yet, the emerging cryptocurrency market is afflicted with significant volatility. Unlike its centralized counterparts, the cryptocurrency market is not subject to centralized policy making via fiscal and monetary policy tools that ensure the management and stability of purchasing power of cryptocurrencies. Decentralized commerce, in turn, is less likely to evolve if the average consumer cannot rely on the enduring purchasing power and stability of cryptocurrencies over time.  
 
