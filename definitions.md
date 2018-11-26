@@ -6,6 +6,14 @@ description: Definitions and Naming Convention
 
 In the following, the Semada Research Institute is naming and defining certain core functions of the Semada Platform: 
 
+## **Semada Research Institute \(SRI\)** 
+
+The Semada Research Institute \(SRI\) is a non-profit research foundation and laboratory that provides research and development expertise in the following areas: distributed systems, dynamical systems, cryptography, cryptoeconomics, micro/macroeconomics, algorithimic monetary design,  blockchain architecture, blockchain protocol design, token economics design and other areas within the larger decentralized and distributed systems domain.
+
+## **Semada Labs \(Labs\)**
+
+Semada Labs \(Labs\) develops the commercial applications of the SRI source code. The cooperative relationship between SRI and Labs is characterized by sharing of research, technology and know-how in an effort to continuously develop and increase the adoption of Semada blockchain and its core network.
+
 ## **Semada Core**
 
 **Semada core refers to the central voting algorithm of the Semada Platform.** 
@@ -27,23 +35,12 @@ The NIDAO is tasked with network innovation for SRI. Membership of the NIDAO is 
 
 ## Stability DAO \(SDAO\)
 
-The SDAO is the central policy making DAO for the Semada Stability Mechanism.  It creates a core improvement over existing stability mechanism for cryptocurrencies. SDAOs is needed for multiple oracle functions in the stability mechanism and enables an unprecedented fully decentralized stability model. Payment Source: Anchor fee payment participation.  
+The SDAO is the central policy making DAO for the Semada Stability Mechanism.  It creates a core improvement over existing stability mechanism for cryptocurrencies. The SDAO is needed for multiple oracle functions in the stability mechanism and enables an unprecedented fully decentralized stability model. Payment Source: Anchor fee payment participation.  
  
 
 ## Semada Stability Mechanism \(SSM\)
 
 The Semada Stability Mechanism \(SSM\) provides core policy tools that help adjusts the supply of SEM in response to  SEM price movements. Similar to earlier attempts in the Basis model, the mechanism enabling price and purchase power stability in SSM involves 3 tokens: 1. SEM, 2. BONDS, and 3. SHARES. SSM uses the Semada core voting algorithm for decentralized autonomous organizations \(Stability DAO or SDAO\) to improve the Basis model in several core policy functions in a fully decentralized and autonomous way. We illustrate the mathematical limits of crash and burn scenarios of earlier attempts and contrast them with our own stability mechanism and its theoretical limits.
 
-## **Semada Research Institute \(SRI\)** 
-
-The Semada Research Institute \(SRI\) is a non-profits research foundation and laboratory that provides research and development expertise in the following areas: distributed systems, dynamical systems, cryptography, cryptoeconomics, micro/macroeconomics, algorithimic monetary design,  blockchain architecture, blockchain protocol design, token economics design and other areas within the larger decentralized and distributed systems domain.
-
-
-
-## **Semada Labs \(Labs\)**
-
-Labs creates technology products and services for commercialization purposes. Labs develops commercial blockchain solutions and related technology products for enterprise customers and consumers. Depending on customer requirements, Labs provides out of the box technology solutions or customized software applications. Labs also provides technology consulting as a service for blockchain and digital currency technologies.
-
-**The cooperative relationship between SRI and Labs** is characterized by sharing of research, technology and know-how in an effort to continuously develop and increase the adoption of Semada blockchain and its core network.  
-
+##  
 
