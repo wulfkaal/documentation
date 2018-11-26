@@ -4,7 +4,7 @@ description: Definitions and Naming Convention
 
 # Definitions
 
-In the following, the Semada Research Institute is naming and defining certain core functions of the Seamada Platform: 
+In the following, the Semada Research Institute is naming and defining certain core functions of the Semada Platform: 
 
 ## **Semada Core**
 
