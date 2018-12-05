@@ -11,6 +11,7 @@ Examples of the DAOs that could benefit from the unified frontend UI that functi
 * Wikipedia DAO. For example, compare Wikipedia today with Wikipedia on Semada. The Semada Wikipedia DAO would allow all DAO members to vote on each person's contributions. This would create a self-policed ranking of valuable contributions.
 * Fake News DAO
 * Decentralized credit score DAO
+* Crypto Issuer Verification DAO \(Decentralized Market Driven Disclosure and Verification Forum for trading ventures\)
 * Underwriting DAO
 * Rideshare DAO
 * Meetup DAO
