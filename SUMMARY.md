@@ -31,6 +31,7 @@
     * [Benefits](proof-of-reputation-consensus/proof-of-reputation/benefits.md)
     * [Calculations](proof-of-reputation-consensus/proof-of-reputation/calculations.md)
 * [Native Stable Cryptocurrency](low-volatility-currency-stable-coin.md)
+* [Decentralized Underwriting in Finance](decentralized-underwriting-in-finance.md)
 * [Governance](blockchain-governance/README.md)
   * [DAO Governance](blockchain-governance/dao-governance.md)
   * [Overcoming Corruption](blockchain-governance/overcoming-corruption.md)
