@@ -8,7 +8,6 @@
     * [Internet-Based Platforms Proliferate](introduction/problem/internet-based-platforms-proliferate.md)
     * [Trust Crises on the Internet](introduction/problem/trust-crises-on-the-internet.md)
     * [Internet-Based Platforms Use of Reputation Metrics](introduction/problem/internet-based-platforms-use-of-reputation-metrics.md)
-  * [Internet of Trust](introduction/internet-of-trust.md)
 * [Semada Research Institute](semada-research-institute/README.md)
   * [Founding Principle](semada-research-institute/founding-principle.md)
   * [Reputation as True Decentralization](semada-research-institute/reputation-as-true-decentralization.md)
