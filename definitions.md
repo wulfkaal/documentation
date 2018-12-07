@@ -12,7 +12,7 @@ The Semada Research Institute \(SRI\) is a non-profit research foundation and la
 
 ## **Semada Labs \(Labs\)**
 
-Semada Labs \(Labs\) Semada Labs’s technology and engineering team implement SRI’s economic and mathematical models, protocols, and the SRI research agenda.
+Semada Labs’s technology and engineering team implement SRI’s economic and mathematical models, protocols, and the SRI research agenda.
 
 ## **Semada Core**
 
