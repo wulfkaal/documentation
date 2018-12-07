@@ -7,7 +7,6 @@
   * [Founding Principle](semada-research-institute/founding-principle.md)
   * [Reputation as True Decentralization](semada-research-institute/reputation-as-true-decentralization.md)
   * [Motivation](semada-research-institute/motivation.md)
-  * [Semada Research Network](semada-research-institute/semada-research-network.md)
   * [Research Agenda](semada-research-institute/research-agenda.md)
 * [Core](semada-core/README.md)
   * [Attack Resistance](semada-core/attack-resistance.md)
