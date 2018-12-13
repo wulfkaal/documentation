@@ -38,6 +38,7 @@
     * [WDAG Parameters](blockchain-governance/graph-theory/wdag-parameters.md)
   * [DAO Life Cycle](blockchain-governance/dao-life-cycle.md)
   * [Summary](blockchain-governance/summary.md)
+* [Dispute Resolution](dispute-resolution.md)
 * [Protocols](protocols/README.md)
   * [Anchor Protocol](protocols/anchor-protocol/README.md)
     * [Selection Procedure for Block Producer in Semada Proof of Reputation](protocols/anchor-protocol/selection-procedure-for-block-producer-in-semada-proof-of-reputation.md)
