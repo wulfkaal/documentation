@@ -20,7 +20,9 @@ When a smart contract is created, the means of dispute resolution is included be
 
 **Break clause**
 
-A break clause in the smart contract will transfer to a 3rd party arbiter the complete power to disburse the encumbered assets of the smart contract between the parties. The break clause is triggered whensoever either party chooses to initiate a dispute.**Third-party arbiter**
+A break clause in the smart contract will transfer to a 3rd party arbiter the complete power to disburse the encumbered assets of the smart contract between the parties. The break clause is triggered whensoever either party chooses to initiate a dispute.
+
+**Third-party arbiter**
 
 Distributed Jurisdiction is designated as the platform for dispute resolution of smart contracts by including a 3rd party arbiter in the respective smart contract—an open position for a randomly selected expert from the bench whose power is triggered when a contracting party initiates a dispute. The arbiter’s power to disburse the assets of the contract between the other parties, once triggered, must be preeminent in order to ensure certainty of outcomes.
 
