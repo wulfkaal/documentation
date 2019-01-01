@@ -14,15 +14,15 @@ To use the Distributed Jurisdiction platform, public users must choose their own
 
 Successful smart contract language is expected to be developed in the forum through the evolutionary process driven by the validation pool. The protocols suggested in this section are therefore entirely hypothetical.
 
-#### Contract creation
+## Contract creation
 
 When a smart contract is created, the means of dispute resolution is included before parties sign.
 
-**Break clause**
+### **Break clause**
 
 A break clause in the smart contract will transfer to a 3rd party arbiter the complete power to disburse the encumbered assets of the smart contract between the parties. The break clause is triggered whensoever either party chooses to initiate a dispute.
 
-**Third-party arbiter**
+### **Third-party arbiter**
 
 Distributed Jurisdiction is designated as the platform for dispute resolution of smart contracts by including a 3rd party arbiter in the respective smart contract—an open position for a randomly selected expert from the bench whose power is triggered when a contracting party initiates a dispute. The arbiter’s power to disburse the assets of the contract between the other parties, once triggered, must be preeminent in order to ensure certainty of outcomes.
 
@@ -30,7 +30,7 @@ Before being selected to adjudicate any case, each arbiter posts an availability
 
 An arbiter is randomly selected, weighted according to availability stakes posted and according to the expertise tags specified by the contract. These tags decide value assumptions for the contract. Expertise tags signal the type of dispute and indicate the experience required of potential arbiters. Examples of expertise tags include relevant areas of law \(property, employment, Delaware corporate law, etc.\), technical matters disputed, languages, territorial or cultural assumptions, and anonymity level.
 
-**Fees**
+### **Fees**
 
 Fees are determined by market factors at any given point in time. Fees are calculated based on the availability of relevant arbiter availability stakes. Arbiters specify the fees they will accept for each sem token staked, the availability stakes, by advertising in the forum. The Semada platform does not dictate the fees.
 
@@ -40,7 +40,7 @@ The smart contract must specify that the fee is sent in the arbiter’s name to 
 
 The reason the parties will prefer to send fees to the platform instead of the arbiters directly is the insurance provided by the evidence-of-work post, which only rewards the arbiter if other arbiters approve of their decisions.
 
-#### Arbiter Selection
+## Arbiter Selection
 
 A random arbiter is chosen based on availability, expertise, reputation, and fees. Before the choice is made, all arbiters from the pool have submitted a stake signaling their availability, and the forum has advertised protocols and fees the arbiters will accept for dispute resolution work. The arbiter’s availability stake is a number of their sem tokens, chosen from each of the expertise tags they’ve improved.
 
@@ -52,7 +52,7 @@ Once chosen, the arbiter has the power of disbursing the assets of the contracts
 
 The arbiter’s stake also represents a bet that the community will agree with their decision. An arbiter’s stake is combined with the half the contract fee as the arbiter’s upvote bet on the post of the decision, half the fee is staked as a downvote against the bet. This encourages careful participation of arbiters in the adjudication portion of the platform.
 
-#### Private hearing
+## Private hearing
 
 A private hearing is initiated with the arbiter as moderator. This hearing takes place entirely off platform, following the protocols set by the smart contract. Solutions for how to perform the hearing will be decided as protocols evolve in the forum.
 
@@ -80,7 +80,7 @@ The system employed to encourage careful adjudication is the betting pool. Arbit
 
 There is an obvious threat to the anonymity of parties and arbiters in any adjudication process which requires information to be exposed during arbitration and the judgment post. This threat is minimized by good practices in adjudication, such as the use of highly standardized template language which will develop in the forum.
 
-#### Appeals
+## Appeals
 
 The rules of the appeals process is encoded in each individual smart contract. Therefore the specifics of the process will evolve as best practices are discovered in the forum and upvoted. In this section we detail one possible scenario.
 
@@ -94,13 +94,13 @@ As stressed previously, ultimately the type of appeals process is always determi
 
 Appeals are a challenging element of the Distributed Jurisdiction system, since contradictory demands need to be satisfied. Due to the potential anonymity of claimants, the assets of the contract must be bound by the first smart contract until the end of all possible appeals, which puts the goals of careful deliberation and timely resolution at odds. The crowd-sourced efficiency of the open comment system as an experimental proving ground for good practices is again invoked to give solutions for this challenge.
 
-#### Triage
+## Triage
 
 The details of smart contract creation given above place a significant intellectual burden on the parties—they need to be experts in which type of contract to choose and then which type of dispute resolution protocol is appropriate including weights of expertise tags in various areas of law. It is assumed that the forum will solve many such problems, creating standardized contract templates that are easy to choose for the vast majority of business needs. However, there will always be novel situations, and in order to make the platform more attractive to business use, another layer will be developed which adds a 4th party triage expert who can make such decisions after a dispute starts.
 
 Under this more complicated system, contracting parties can simply add a randomly selected triage expert to their smart contract. Triage expertise will be a separate expertise tag in the forum. A triage expert will have reputation in the expertise of deciding the areas of case law in which general contracts fall. The smart contract gives this triage expert the ability to transfer part of the adjudication fee and the power of asset disbursement to the appropriate expertise tags to randomly select an appropriate arbiter. Then following the general Semada platform function, the triage expert will submit their work for evaluation by other triage experts to the forum.
 
-#### Attacks
+## Attacks
 
 Dispute resolution on the Semada Platform is susceptible to a type of corruption: arbiters may be bribed. When both arbiters and parties are anonymous and the channels of communication are carefully limited, this is far less likely than in legacy legal systems.
 
