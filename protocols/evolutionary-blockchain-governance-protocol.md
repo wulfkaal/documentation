@@ -1,6 +1,6 @@
 # Evolutionary Blockchain Governance Protocol
 
-The Semada protocol uses a weighted directed acyclic graph for a precedent system and DAO governance.  
+The protocol uses a weighted directed acyclic graph for a precedent system and DAO governance.  
 
 
 A graph is a collection of points, called vertices, with optional connections between vertices, called edges. The vertices of our graph are the posts to the forum. The edges are citations directed from one post \(the referrer\) to another \(the reference\). The edges give the graph direction, since references always point backward in time. Since there can be no time loops of references, the graph has no cycles, so it is acyclic. All in all, the forum is a directed acyclic graph \(DAG\).
@@ -18,6 +18,6 @@ DAO Governance Precedent System via Weighted DAG
 Figure 10: Weighted DAG Precedent System.  
 
 
-In the Semada Protocol, evolutionary DAO governance is enable by the Weighted DAG precedent system. As Figure 10 above demonstrates, more reputation weight and salaries are allocated to posts on the Semada Forum that get continuously referenced by other posts. As a precedent dissipates over time, new precedence in the Semada Forum emerge naturally to replace older precedent. This is the essence of the evolutionary nature of the platform. As a matter of fact,  entire expertise tags and DAOs on the Semada platforms can emerge and be replaced over time with new and improved systems naturally within the existing architecture of the platform.  
+In the  Protocol, evolutionary DAO governance is enable by the Weighted DAG precedent system. As Figure 10 above demonstrates, more reputation weight and salaries are allocated to posts on the  Forum that get continuously referenced by other posts. As a precedent dissipates over time, new precedence in the Forum emerge naturally to replace older precedent. This is the essence of the evolutionary nature of the platform. As a matter of fact,  entire expertise tags and DAOs on the platforms can emerge and be replaced over time with new and improved systems naturally within the existing architecture of the platform.  
 
 
