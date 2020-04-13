@@ -6,7 +6,7 @@
 
 Figure 6: Figure 6 illustrates that after the block producer was awarded her SEM tokens for successful and validated block production, as illustrated in Figure 5, all Anchor token holders in the Anchor Protocol participate in the SEM token  distribution from the block in proportion to their respective SEM token holdings.
 
-Semada Reputation Salary Calculation Example
+Reputation Salary Calculation Example
 
 |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -17,10 +17,10 @@ Semada Reputation Salary Calculation Example
 | Donna | 202 | 1020 Total / 202 Anchor = | 5.04950495 | 20 Total SEM / Proportional Anchor = | 3.96078431 |
 | Total | 1020 |  | 20 |  |  |
 
-How does Joe earn tradeable currency on the Semada Platform?  
+How does Joe earn tradeable currency on the  Platform?  
 
 
-SEM tokens \(traded on binance\) are the tradable currency used for and within transactions \(including as gas\). Anchor tokens are the Semada block propagation reputation tokens available to the Semada block propagation DAO members.  
+SEM tokens \(traded on binance\) are the tradable currency used for and within transactions \(including as gas\). Anchor tokens are the block propagation reputation tokens available to the block propagation DAO members.  
 
 
 The Anchor tokens determine who has power in the system for deciding:  
