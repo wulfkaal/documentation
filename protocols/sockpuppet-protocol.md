@@ -20,7 +20,7 @@ So the only time WoT works is when the service is not valuable, such as PGP \(em
 If you are trying to create an economic solution that is worth real money, where you need to be able to trust the other people in the network will behave well and follow protocol, you can't just assume their historical good behavior will prove their future behavior will also be good. Sockpuppet accounts allow us to automatedly game the system and falsely create valuable reputation, so we can leach whatever value there is out of the system.  
 
 
-The voting algorithm of Semada core is designed to combat that very system, so that it is not economically feasible to game the system without adding genuinely valuable improvements, as proven with the fees that are added to the system and the fair validation pool that every fee is subject to.  
+The voting algorithm of the platform core is designed to combat that very system, so that it is not economically feasible to game the system without adding genuinely valuable improvements, as proven with the fees that are added to the system and the fair validation pool that every fee is subject to.  
 
 
 In summary, the Web of Trust is a traditional attempt to create decentralized reputation which is critically flawed and should not be used when fungible currency is at stake:
@@ -28,10 +28,10 @@ In summary, the Web of Trust is a traditional attempt to create decentralized re
 * It counts the number of transactions that are positive/honest and how much each member supports the other members  \(web of trust\) - many DLT startups use this approach
 * However, sockpuppet accounts can grow their value much quicker in the web of trust by validating each other. Honest users are much slower than the sockpuppets validating each other. Hence, the system is flawed.
 
-Here is how Semada fixes this web of trust sockpuppet flaw:
+The platform fixes this web of trust sockpuppet flaw:
 
 ![](https://lh6.googleusercontent.com/NXNArD5yPXYGZLb450TTD4i5YA5pWhtZtJlO-LVMGzn9ll1YH_rBj55xSY-Ka9DT9syyLRy1a_ZPZdcItTn-XFMYKSCRKY6g1DqOP5gdM984D16nI5C0_cEmXwaeCYbEysTDiJ7X)
 
-Figure 7: Figure 7 demonstrates that multiple sockpuppet accounts with 1 token each are still equal to a higher token amount of the same DAO member with only one account. In the Semada Persona Protocol, people, e.g. DAO members, can use sockpuppet accounts but they are wasting their efforts. Semada uses validation pools to make any change in rewards. All power comes from  validation pools in relation to what DAO members stake, and all fungible currency rewards are shared fairly with the group in proportion to their individual reputation. The Sockpuppet Protocol thus breaks the incentives for Sybil attacks.  
+Figure 7: Figure 7 demonstrates that multiple sockpuppet accounts with 1 token each are still equal to a higher token amount of the same DAO member with only one account. In the Persona Protocol, people, e.g. DAO members, can use sockpuppet accounts but they are wasting their efforts. The platform uses validation pools to make any change in rewards. All power comes from  validation pools in relation to what DAO members stake, and all fungible currency rewards are shared fairly with the group in proportion to their individual reputation. The Sockpuppet Protocol thus breaks the incentives for Sybil attacks.  
 
 
