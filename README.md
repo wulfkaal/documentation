@@ -1,4 +1,4 @@
 # How To Read This Documentation
 
-Start with Introduction that explains background of the Semada Project
+Start with Introduction that explains background of the Project
 
