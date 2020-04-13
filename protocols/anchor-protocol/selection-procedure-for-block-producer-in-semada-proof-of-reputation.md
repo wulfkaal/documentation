@@ -1,4 +1,4 @@
-# Selection Procedure for Block Producer in Semada Proof of Reputation
+# Selection Procedure for Block Producer in Proof of Reputation
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-Figure 4: In the Semada Protocol, random selection of experts is decided by relative weight of reputation. Before a smart contract is engaged, experts have the opportunity to stake SEM tokens to signal their availability for work. These availability stakes will be added as the chosen experts’ upvote bet on their evidence-of-work post. In this example, the yellow disk stops randomly along the bar, but is most likely to stop on the 2n​d​ expert.
+Figure 4: In the Protocol, random selection of experts is decided by relative weight of reputation. Before a smart contract is engaged, experts have the opportunity to stake SEM tokens to signal their availability for work. These availability stakes will be added as the chosen experts’ upvote bet on their evidence-of-work post. In this example, the yellow disk stops randomly along the bar, but is most likely to stop on the 2n​d​ expert.
 
 
 
