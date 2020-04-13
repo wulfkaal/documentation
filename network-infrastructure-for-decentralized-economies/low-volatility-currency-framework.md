@@ -1,2 +1,0 @@
-# Low Volatility Currency Framework
-
